@@ -1,5 +1,5 @@
 # mockup-portofolio
-Uploaded for my portfolio about making interactive UX design.
+Uploaded for my portfolio about making interactive UX design. Sorry if it's in Indonesian, I'll put localization to my TODO list.
 
 How to run:
 1. Click the link on the description or this link:
