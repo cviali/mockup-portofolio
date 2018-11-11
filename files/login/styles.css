@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:832px;
+  width:362px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -30,8 +30,8 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:470px;
-  top:112px;
+  left:0px;
+  top:0px;
   width:362px;
   height:642px;
 }
@@ -62,8 +62,8 @@
 #u1 {
   border-width:0px;
   position:absolute;
-  left:471px;
-  top:113px;
+  left:1px;
+  top:1px;
   width:360px;
   height:640px;
 }
@@ -94,8 +94,8 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:471px;
-  top:113px;
+  left:1px;
+  top:1px;
   width:360px;
   height:220px;
 }
@@ -126,8 +126,8 @@
 #u3 {
   border-width:0px;
   position:absolute;
-  left:486px;
-  top:227px;
+  left:16px;
+  top:115px;
   width:330px;
   height:374px;
 }
@@ -143,8 +143,8 @@
 #u4 {
   border-width:0px;
   position:absolute;
-  left:507px;
-  top:274px;
+  left:37px;
+  top:162px;
   width:290px;
   height:65px;
 }
@@ -183,8 +183,8 @@
 #u5 {
   border-width:0px;
   position:absolute;
-  left:600px;
-  top:248px;
+  left:130px;
+  top:136px;
   width:107px;
   height:16px;
   font-family:'Roboto';
@@ -225,8 +225,8 @@
 #u7 {
   border-width:0px;
   position:absolute;
-  left:506px;
-  top:443px;
+  left:36px;
+  top:331px;
   width:290px;
   height:143px;
 }
@@ -249,8 +249,8 @@
 #u8 {
   border-width:0px;
   position:absolute;
-  left:595px;
-  top:445px;
+  left:125px;
+  top:333px;
   width:111px;
   height:118px;
 }
@@ -281,8 +281,8 @@
 #u9 {
   border-width:0px;
   position:absolute;
-  left:537px;
-  top:349px;
+  left:67px;
+  top:237px;
   width:229px;
   height:40px;
 }
@@ -317,8 +317,8 @@
 #u10 {
   border-width:0px;
   position:absolute;
-  left:558px;
-  top:190px;
+  left:88px;
+  top:78px;
   width:187px;
   height:24px;
   font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';

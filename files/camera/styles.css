@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:832px;
+  width:362px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -30,8 +30,8 @@
 #u11 {
   border-width:0px;
   position:absolute;
-  left:470px;
-  top:112px;
+  left:0px;
+  top:0px;
   width:362px;
   height:642px;
 }
@@ -62,8 +62,8 @@
 #u12 {
   border-width:0px;
   position:absolute;
-  left:471px;
-  top:113px;
+  left:1px;
+  top:1px;
   width:360px;
   height:640px;
 }
@@ -87,8 +87,8 @@
 #u13 {
   border-width:0px;
   position:absolute;
-  left:471px;
-  top:166px;
+  left:1px;
+  top:54px;
   width:360px;
   height:335px;
 }
@@ -119,8 +119,8 @@
 #u14 {
   border-width:0px;
   position:absolute;
-  left:471px;
-  top:113px;
+  left:1px;
+  top:1px;
   width:360px;
   height:53px;
 }
@@ -156,8 +156,8 @@
 #u15 {
   border-width:0px;
   position:absolute;
-  left:484px;
-  top:127px;
+  left:14px;
+  top:15px;
   width:128px;
   height:24px;
   font-family:'Roboto Bold', 'Roboto Regular', 'Roboto';
@@ -192,8 +192,8 @@
 #u16 {
   border-width:0px;
   position:absolute;
-  left:478px;
-  top:508px;
+  left:8px;
+  top:396px;
   width:346px;
   height:47px;
 }
@@ -223,8 +223,8 @@
 #u17 {
   border-width:0px;
   position:absolute;
-  left:478px;
-  top:695px;
+  left:8px;
+  top:583px;
   width:346px;
   height:47px;
 }
